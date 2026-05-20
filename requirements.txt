@@ -6,3 +6,4 @@ pydantic
 passlib[bcrypt]
 httpx
 python-multipart
+python-dotenv
